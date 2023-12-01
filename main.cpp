@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 
 using namespace std;
@@ -7,4 +8,6 @@ int main() {
 }
 
 
+=======
+>>>>>>> origin/main
 
